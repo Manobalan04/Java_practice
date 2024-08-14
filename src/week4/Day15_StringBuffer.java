@@ -5,6 +5,8 @@ public class Day15_StringBuffer {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 
+// StringBuffer is more efficient than StringBuilder
+		
 		String s1 = new String("python");
 		String s2 = new String("python");
 		System.out.println(s1);
