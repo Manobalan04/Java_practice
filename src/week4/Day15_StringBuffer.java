@@ -6,6 +6,8 @@ public class Day15_StringBuffer {
 		// TODO Auto-generated method stub
 
 // StringBuffer is more efficient than StringBuilder
+// (StringBuffer) while doing multiply task it will work
+// (StringBuilder) while doing multiply task it may crash the process
 		
 		String s1 = new String("python");
 		String s2 = new String("python");
